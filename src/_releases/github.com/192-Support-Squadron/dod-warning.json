@@ -1,0 +1,30 @@
+{
+  "organization": "USAF 192 Support Squadron",
+  "name": "dod-warning",
+  "description": "A React component to display a dod warning modal when a new session starts.",
+  "tags": [],
+  "contact": {
+    "email": "jwillman@jhics.org",
+    "name": "John Edward Willman V"
+  },
+  "status": "v1.0.1",
+  "vcs": "git",
+  "languages": ["Typescript"],
+  "repositoryURL": "https://github.com/192-support-squadron/dod-warning",
+  "permissions": {
+    "licenses": [
+      {
+        "URL": "https://github.com/192-support-squadron/dod-warning/blob/main/LICENSE",
+        "name": "Apache 2.0"
+      }
+    ],
+    "usageType": "openSource"
+  },
+  "laborHours": 4,
+  "date": {
+    "created": "2025-03-25T00:00:00Z",
+    "lastModified": "2025-03-25T00:00:00Z",
+    "metadataLastUpdated": "2025-03-25T00:00:00Z"
+  }
+}
+
