@@ -2,7 +2,7 @@
   "organization": "USAF 192 Support Squadron",
   "name": "dod-warning",
   "description": "A React component to display a dod warning modal when a new session starts.",
-  "tags": [],
+  "tags": ["React", "Typescript"],
   "contact": {
     "email": "jwillman@jhics.org",
     "name": "John Edward Willman V"

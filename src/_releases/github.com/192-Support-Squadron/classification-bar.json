@@ -2,7 +2,7 @@
   "organization": "USAF 192 Support Squadron",
   "name": "classification-bar",
   "description": "A React component to display a classification bar on the top and bottom of a web page.",
-  "tags": [],
+  "tags": ["React", "Typescript"],
   "contact": {
     "email": "jwillman@jhics.org",
     "name": "John Edward Willman V"
